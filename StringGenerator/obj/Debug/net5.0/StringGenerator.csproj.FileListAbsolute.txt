@@ -1,0 +1,15 @@
+D:\Labs\CPP\2\Lib\StringGenerator\obj\Debug\net5.0\StringGenerator.csproj.AssemblyReference.cache
+D:\Labs\CPP\2\Lib\StringGenerator\obj\Debug\net5.0\StringGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\CPP\2\Lib\StringGenerator\obj\Debug\net5.0\StringGenerator.AssemblyInfoInputs.cache
+D:\Labs\CPP\2\Lib\StringGenerator\obj\Debug\net5.0\StringGenerator.AssemblyInfo.cs
+D:\Labs\CPP\2\Lib\StringGenerator\obj\Debug\net5.0\StringGenerator.csproj.CoreCompileInputs.cache
+D:\Labs\CPP\2\Lib\StringGenerator\bin\Debug\net5.0\StringGenerator.deps.json
+D:\Labs\CPP\2\Lib\StringGenerator\bin\Debug\net5.0\StringGenerator.dll
+D:\Labs\CPP\2\Lib\StringGenerator\bin\Debug\net5.0\ref\StringGenerator.dll
+D:\Labs\CPP\2\Lib\StringGenerator\bin\Debug\net5.0\StringGenerator.pdb
+D:\Labs\CPP\2\Lib\StringGenerator\bin\Debug\net5.0\FakerLib.dll
+D:\Labs\CPP\2\Lib\StringGenerator\bin\Debug\net5.0\FakerLib.pdb
+D:\Labs\CPP\2\Lib\StringGenerator\obj\Debug\net5.0\StringGenerator.csproj.CopyComplete
+D:\Labs\CPP\2\Lib\StringGenerator\obj\Debug\net5.0\StringGenerator.dll
+D:\Labs\CPP\2\Lib\StringGenerator\obj\Debug\net5.0\ref\StringGenerator.dll
+D:\Labs\CPP\2\Lib\StringGenerator\obj\Debug\net5.0\StringGenerator.pdb

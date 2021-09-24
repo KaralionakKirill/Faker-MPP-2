@@ -1,0 +1,12 @@
+D:\Labs\CPP\2\Lib\FakerLib\bin\Debug\net5.0\FakerLib.deps.json
+D:\Labs\CPP\2\Lib\FakerLib\bin\Debug\net5.0\FakerLib.dll
+D:\Labs\CPP\2\Lib\FakerLib\bin\Debug\net5.0\ref\FakerLib.dll
+D:\Labs\CPP\2\Lib\FakerLib\bin\Debug\net5.0\FakerLib.pdb
+D:\Labs\CPP\2\Lib\FakerLib\obj\Debug\net5.0\FakerLib.csproj.AssemblyReference.cache
+D:\Labs\CPP\2\Lib\FakerLib\obj\Debug\net5.0\FakerLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\CPP\2\Lib\FakerLib\obj\Debug\net5.0\FakerLib.AssemblyInfoInputs.cache
+D:\Labs\CPP\2\Lib\FakerLib\obj\Debug\net5.0\FakerLib.AssemblyInfo.cs
+D:\Labs\CPP\2\Lib\FakerLib\obj\Debug\net5.0\FakerLib.csproj.CoreCompileInputs.cache
+D:\Labs\CPP\2\Lib\FakerLib\obj\Debug\net5.0\FakerLib.dll
+D:\Labs\CPP\2\Lib\FakerLib\obj\Debug\net5.0\ref\FakerLib.dll
+D:\Labs\CPP\2\Lib\FakerLib\obj\Debug\net5.0\FakerLib.pdb
